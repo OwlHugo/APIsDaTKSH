@@ -1,0 +1,6 @@
+@APIsDaTKSH_HostAddress = http://localhost:5015
+
+GET {{APIsDaTKSH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
