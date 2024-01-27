@@ -1,0 +1,6 @@
+@APITKSH_HostAddress = http://localhost:5248
+
+GET {{APITKSH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITKSH", "APITKSH\APITKSH.csproj", "{F70D6F2F-1B6D-44F7-B334-5D5F8AC431F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70D6F2F-1B6D-44F7-B334-5D5F8AC431F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70D6F2F-1B6D-44F7-B334-5D5F8AC431F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70D6F2F-1B6D-44F7-B334-5D5F8AC431F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70D6F2F-1B6D-44F7-B334-5D5F8AC431F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B46981-A435-4A4B-8737-E9DDADF47E64}
+	EndGlobalSection
+EndGlobal
